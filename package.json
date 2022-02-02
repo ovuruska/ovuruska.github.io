@@ -2,7 +2,7 @@
   "name": "oguzvuruskaner",
   "version": "0.1.0",
   "private": true,
-  "homepage": "ovuruska.github.io",
+  "homepage": "https://ovuruska.github.io",
   "dependencies": {
     "jquery": "^3.2.1",
     "react": "^16.2.0",
