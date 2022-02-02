@@ -1,4 +1,4 @@
-{
+const data = {
   "main": {
     "name": "Oguz Vuruskaner",
     "occupation": "Software Engineer",
@@ -156,3 +156,5 @@
     ]
   }
 }
+
+export default data
