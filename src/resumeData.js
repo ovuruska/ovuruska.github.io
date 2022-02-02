@@ -2,7 +2,7 @@ const data = {
   "main": {
     "name": "Oguz Vuruskaner",
     "occupation": "Software Engineer",
-    "description": "I'm an assertive and versatile programmer. I love applying new cutting-edge technologies in my projects",
+    "description": "I'm an assertive and versatile programmer. I love applying cutting-edge technologies in my projects",
     "image": "profilepic.jpg",
     "bio": "You know I'm something of a musician myself. My focus is mostly on mixing and mastering parts of the music. I do love working over NFT's and Blockchain.",
     "contactmessage": "I'm looking forward to hearing from you. Anything counts.",
