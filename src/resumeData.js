@@ -15,7 +15,7 @@ const data = {
       "zip": "35290"
     },
     "website": "http://oguzvuruskaner.github.io",
-    "resumedownload": "https://drive.google.com/uc?export=download&id=13gqzRmhzvmUN6-ZT2Rvvl8WK_zhH6oF3",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1eDKZ--dUrI5jVD8cRTo2AhmHKZ-ATJB_",
     "social": [
 
       {
