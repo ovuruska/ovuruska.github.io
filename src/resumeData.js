@@ -140,6 +140,12 @@ const data = {
         "category": "Object detection and tracking dataset annotation application",
         "image": "video_annotation_tool.png",
         "url": "https://github.com/ovuruska/video-annotation-tool"
+      },
+      {
+        "title":"Lean todo list",
+        "category":"Full stack PWA.",
+        "image":"todolist.png",
+        "url":"https://oguzvuruskaner.website/"
       }
     ]
   },
